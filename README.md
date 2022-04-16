@@ -60,7 +60,6 @@ A16: +,- (class attribute)
 # Key Findings:
 
 - Prior default, credit score, and employment status are the most significant predictors
-- The business decision would be targeting applicants without prior default, but with a high credit score, or employment status of employed to promote the credit cards in the ads or other marketing efforts
-- The three models applied on the credit approval dataset are logistic regression, KNN, and decision tree
-- Logistic regression model performs the best among the 3 models
+- The business decision would be targeting applicants without prior default, but with a high credit score, or employment status of employed to promote the credit cards in the ads or other marketing efforts to increase the number of credit cards applicants with higher approval rates. 
+- By comparing the fit statistics (ASE, MSE, and MISC), Logistic regression model performs the best among the 3 models.
 
